@@ -1,0 +1,11 @@
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/obj/Debug/netcoreapp3.0/Client.csprojAssemblyReference.cache
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/obj/Debug/netcoreapp3.0/Client.AssemblyInfoInputs.cache
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/obj/Debug/netcoreapp3.0/Client.AssemblyInfo.cs
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client.deps.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client.runtimeconfig.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client.runtimeconfig.dev.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client.dll
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/bin/Debug/netcoreapp3.0/Client.pdb
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/obj/Debug/netcoreapp3.0/Client.dll
+/Users/marcoslaydner/Projects/APAssignmentCS/Client/obj/Debug/netcoreapp3.0/Client.pdb

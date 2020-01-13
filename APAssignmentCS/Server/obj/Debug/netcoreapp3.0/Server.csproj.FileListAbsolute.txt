@@ -1,0 +1,11 @@
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server.deps.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server.runtimeconfig.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server.runtimeconfig.dev.json
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server.dll
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/bin/Debug/netcoreapp3.0/Server.pdb
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/obj/Debug/netcoreapp3.0/Server.csprojAssemblyReference.cache
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/obj/Debug/netcoreapp3.0/Server.AssemblyInfoInputs.cache
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/obj/Debug/netcoreapp3.0/Server.AssemblyInfo.cs
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/obj/Debug/netcoreapp3.0/Server.dll
+/Users/marcoslaydner/Projects/APAssignmentCS/Server/obj/Debug/netcoreapp3.0/Server.pdb
